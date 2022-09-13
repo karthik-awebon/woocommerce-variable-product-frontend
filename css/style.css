@@ -1,0 +1,13 @@
+ul.g8_product_cat li {
+    list-style: none;
+}
+ul.g8_product_cat {
+    border: solid 1px #ddd;
+    background-color: #fdfdfd;
+    margin: 0;
+    padding: 5px 20px;
+    min-height: 42px;
+    max-height: 200px;
+    overflow: auto;
+    /* padding: 0 .9em; */
+}
